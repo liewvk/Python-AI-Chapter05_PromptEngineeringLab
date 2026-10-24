@@ -1,0 +1,11 @@
+# settings.py
+
+OLLAMA_HOST = "http://localhost:11434"
+
+MODEL_NAME = "qwen3.5:9b"
+
+TIMEOUT_SECONDS = 600
+
+DEFAULT_TEMPERATURE = 0.2
+
+DEFAULT_MAX_TOKENS = 400
